@@ -1,6 +1,6 @@
 # About this course:
 ###
-he course includes five weeks of content with 2-3 modules in each. In each week, there'll be a set of lecture videos, together with a set of review questions to help you make sure you've mastered the material. Some modules also have hands on exercise in which you'll get to implement these concepts and see for yourself how they really work.
+The course includes five weeks of content with 2-3 modules in each. In each week, there'll be a set of lecture videos, together with a set of review questions to help you make sure you've mastered the material. Some modules also have hands on exercise in which you'll get to implement these concepts and see for yourself how they really work.
 
 
 When you complete the course, you'll come away with:
